@@ -1,0 +1,18 @@
+# OS specific files
+.DS_STORE
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# IDE / Editor files
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+tmp/
+.temp/
